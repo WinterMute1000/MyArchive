@@ -1,0 +1,24 @@
+I think nobody want sees this, but I wrote it cuz someone might see.
+
+1. This is archive about my activity. I made to use make portfolio.
+ 
+2. I'm native korean speaker. and I think It was annoying to translate from Korean into English. So, All document had wrote to korean and from after this sentence,
+I'll use only korean.
+
+3. 여기있는 것은 다 제가 직접 풀었거나, 막힌 부분들은 다 구글링해서 찾아서 직접 해 본것 입니다.
+
+4. 궁금한게 있어도 질문 안 받습니다. 왜냐면 나도 솔직히 잘 못해서 구글링 안 해본게 거의 없음.
+
+5. 대부분 정리할려고 쓴 문서들은 모두 ppt로 만들었습니다. 근데 난 ppt 잘 못 만듬. 난 디자인 잘 못 합니다요. 그러니 너무 뭐라하지마세요. 
+
+6. 푼 문제가 있는 사이트
+
+Google CTF for beginner 2019:https://capturetheflag.withgoogle.com/#beginners/
+
+Analysis malwere traffic:https://www.malware-traffic-analysis.net/
+
+FTZ: 아마 해커스쿨 FTZ라고 구글링하면 다 나옴!
+
+뭔가 더 하면 더 링크드림
+
+7. 솔직히 난 아직 실력이 부족하니 그냥 구글링해서 보는게 도움이 될 것입니다. github프로필에서 영어로도 그렇게 써있지만, 제 github보단 다른 걸 보세요.
