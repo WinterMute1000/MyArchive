@@ -1,6 +1,6 @@
 I think nobody want sees this, but I wrote it cuz someone might see.
 
-1. This is archive about my activity. I made to use make portfolio.
+1. This is archive about my activity. I made this to use make portfolio.
  
 2. I'm native korean speaker. and I think It was annoying to translate from Korean into English. So, All document had wrote to korean and from after this sentence,
 I'll use only korean.
@@ -22,3 +22,4 @@ FTZ: 아마 해커스쿨 FTZ라고 구글링하면 다 나옴!
 뭔가 더 하면 더 링크드림
 
 7. 솔직히 난 아직 실력이 부족하니 그냥 구글링해서 보는게 도움이 될 것입니다. github프로필에서 영어로도 그렇게 써있지만, 제 github보단 다른 걸 보세요.
+8. 업데이트는 대충 하루에 하나씩 됩니다. 예전에 풀었던거나 새로 푼 것을 올리는 거라 다시 푼 걸 재현하는 시간도 있고 하는 일도 있고 그래서 ㅎㅎ
